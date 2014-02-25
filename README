@@ -1,0 +1,1 @@
+Maze solver. Starting at the top left corner, it will find the shortest path to the user-defined goal point. Can either get a maze from a text file, or randomly generate a maze of user-specified dimensions.
